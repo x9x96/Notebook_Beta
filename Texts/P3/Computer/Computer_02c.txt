@@ -1,0 +1,6 @@
+Types Of Colour Monitor
+
+1. Colour Graphics Adapter (COA); It can show about any colour
+2. Enhanced Graphic Adapter (EGA); It can show up to __ colours
+3. Video Graphic Adapter (VGA); It shows up to -------
+4. Super Video Graphic Adapter (SVGA); It can display an excellent output with more than 264, ---- colour

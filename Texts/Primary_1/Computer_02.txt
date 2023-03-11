@@ -1,0 +1,7 @@
+Computer is an electronic machine that collects data, processes the data and give result as information
+
+TYPES OF COMPUTER
+
+1.	Analog computer
+2.	Digital computer
+3.	Hybrid computer

@@ -1,0 +1,18 @@
+A computer is an electronic machine that can perform many things.
+
+Things A Computer Can Do Are:
+1. Computers can do arithmetic calculations like addition, subtraction, division and multiplication. Examples
+   - 3+6=9
+   - 3x6=15
+   - 6-3=3
+   - 6÷3=3
+
+2. Computers can compare values in order to arrange them from small to big or from big to small.
+Examples
+   - 2 is less than 3,
+   - 3 is more than 1
+3. Computers can stare information
+4. Computers can bring out information that is stored
+5. Computers can count and calculate very fast
+6. Computers can do things accurately
+7. Computers can only perform tasks when they are given instructions

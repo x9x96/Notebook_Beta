@@ -1,0 +1,8 @@
+There are two categories of colours
+1. Primary Colour
+2. Secondary Colour
+
+Examples of Primary Colour
+1. Red
+2. Blue
+3. Yellow

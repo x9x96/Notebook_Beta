@@ -1,0 +1,13 @@
+When you want to greet your parents in the morning what do you say?
+
+>> Good morning ma/sir.
+
+
+When you want to greet your teacher in the afternoon what do you say?
+
+>> Good afternoon ma/sir.
+
+
+When you want to greet your elders in the evening what do you say?
+
+>> Good evening ma/sir.

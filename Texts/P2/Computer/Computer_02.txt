@@ -1,0 +1,16 @@
+Diskette are flat movable magnetic plates in which information is stored.
+
+Example Of Information Stored In A Diskette Are:
+1. School records
+2. Records of organizations
+3. Games
+4. Graphics
+
+Disk Drives: Disk drives are mechanical devices which are used to read or write information from and to a magnetic disk.
+
+Types Of Disk Drives Are:
+1. Hard drives
+2. Removable drive
+3. DVD ROM drives
+4. Floppy disk
+5. CD ROM drives

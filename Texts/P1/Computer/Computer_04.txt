@@ -1,0 +1,9 @@
+Hotel is a place where people go to to relax and sometimes have their meetings.
+
+Uses Of Computer In A Hotel
+1. For billing customers
+2. For keeping records of guests
+3. For booking reservations
+4. For booking of halls
+5. For making staff payrolls
+6. For security purposes

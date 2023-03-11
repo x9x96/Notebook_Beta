@@ -1,0 +1,9 @@
+Disk Drives And Their Uses
+Disk drives are movable magnetic devices which are used to read or write information to and from a magnetic disk.
+
+Uses Of Disk drives Are:
+1. To read data
+2. To write or burn data
+3. To format or erase data
+4. To play music through CD ROM drives and devices
+5. To install computer software such as games and apps

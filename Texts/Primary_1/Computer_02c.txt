@@ -1,0 +1,8 @@
+DIGITAL COMPUTERS: Represent data in form of number 0 and 1
+
+EXAMPLES OF DIGITAL COMPUTER
+
+1.	Laptop
+2.	Calculator
+3.	Mobile phone
+4.	Camera

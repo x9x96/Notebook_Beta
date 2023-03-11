@@ -1,0 +1,6 @@
+Traffic light tells road users when to stop and go, when and how to turn, and when to drive with extra caution.
+
+There are three (3) traffic light colours which are:
+1. Red means STOP
+2. Yellow means READY
+3. Green means GO

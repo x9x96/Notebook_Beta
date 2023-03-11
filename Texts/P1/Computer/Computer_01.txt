@@ -1,0 +1,8 @@
+Hospital is a place where people go to when they are sick to see the doctor for treatment.
+
+Computers Are Used In The Hospital For The Following:
+1. Keeping patient records
+2. Diagnosing sick people
+3. Booking appointment
+4. Bill payments
+5. Keeping record of staffs

@@ -1,0 +1,9 @@
+After the use of counting methods such as body parts, trees, stones and devices like abacus and calculator, Charles Babbage who is referred to as the father of  the present day computer designed the first automatic digital computer.
+
+The Facilities Of The Computer Are
+1. Entering data
+2. Performing operation (processing)
+3. Storing information (memory)
+4. Giving out result (output)
+
+Charles Babbage was assisted by lady Adajoke Lace who suggested the use of binary digits(0’s and 1’s) which she called bits

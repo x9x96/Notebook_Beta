@@ -1,0 +1,9 @@
+Types Of Colours
+
+There are two (2) types of colours
+
+1. Primary  colours
+2. Secondary colours
+
+1. Primary Colours: These are colours that cannot be created by mixing other colours together. They are colours on their own. Example Red, Yellow and Blue
+2. Secondary Colours: These are colours that are created when two primary colours are mixed together.

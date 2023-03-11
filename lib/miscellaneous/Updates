@@ -1,0 +1,6 @@
+23/12/21
+    - Work on shuffling the list of items for the CarouselSlider
+    to generate a much more random view on the home page
+
+    - Work on adding a silver appbar
+    _ Make videos and image request automatically in the case of a bad connections

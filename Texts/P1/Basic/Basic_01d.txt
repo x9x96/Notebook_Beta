@@ -1,0 +1,6 @@
+Secondary colour is gotten by mixing primary colours.
+
+Examples
+1. Red + Blue = Purple
+2. Red + Yellow = Orange
+3. Blue + Yellow = Green

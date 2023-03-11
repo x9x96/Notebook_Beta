@@ -1,0 +1,7 @@
+Weather is the atmospheric condition of a place.
+
+TYPES OF OF WEATHER
+
+1. Hot Weather
+2. Cold weather
+3. Wet Weather

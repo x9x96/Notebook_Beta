@@ -1,0 +1,8 @@
+A plotter is an output device that is used to produce mostly graphic drawings
+
+Uses Of Plotter
+
+1. Plotters are used to print out very large sheet of paper
+2. They are used in specific tasks associated with engineers, architects
+3. They are capable of producing graphs, drawing, charts, map e.t.c
+4. They interpret commands and make line Drawing on paper using multi colour Augmented pen

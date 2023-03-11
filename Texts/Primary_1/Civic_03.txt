@@ -1,0 +1,9 @@
+Illness is the condition of not feeling well in the body
+
+COMMON ILLNESS
+
+1.	Malaria
+2.	Cold
+3.	Headache
+4.	Stomach ache
+5.	Typhoid

@@ -1,0 +1,7 @@
+Types Of Monitor
+
+1. Monochrome Monitor
+2. Colour Monitor
+
+1. Monochrome Monitor: Is a type of monitor which displays characters in a single colour. It is like black and white television
+2. Colour Monitor: This type of monitor shows the characters in different colours and on different backgrounds

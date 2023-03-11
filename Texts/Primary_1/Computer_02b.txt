@@ -1,0 +1,7 @@
+ANALOG COMPUTERS: Represents data in term of measure. It is used to measure things
+
+EXAMPLES OF ANALOG COMPUTER
+
+1.	Stopwatch
+2.	Slide rule
+3.	Thermometer

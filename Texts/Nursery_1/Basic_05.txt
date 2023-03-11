@@ -1,0 +1,9 @@
+Sinking objects are objects that goes down the water.
+
+EXAMPLES OF SINKING OBJECTS
+
+1. Nail
+2. Bottle
+3. Stone
+4. Iron Spoon
+5. Coin

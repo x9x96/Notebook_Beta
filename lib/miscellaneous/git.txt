@@ -1,0 +1,63 @@
+25/5/21
+    # Executed implementation of texts in a separate file
+30/05/21
+    # Altered Pre-Nursery 1 English to go into the subject rather than the modal bottom
+    # Made edits to the main menu boxes.
+
+
+
+        ___TO-Do List___
+# Change as much buttons as possible to gesture detectors.
+
+OBSERVTIONS
+- Remove the voice-aid from the primary classes
+
+- Remove the app beat..
+
+        ___Development Flow___
+
+1. - UI/UX Modeling
+        - Are the screen designs ok, ... if yes, is the primary section bottom screen ok
+        - What logo would be preferred to be used as an icon, Splash screen
+        - Are the content on the menu screen of interest to the school
+        - Is the menu screen ok, the grid boxes, and the side notches on them
+        - Would the menu screen be liked to be placed on the classes and subjects pages
+        - Is the intro screen of topics ok,
+
+2. - Resource Gathering/Modification
+        - Collection of resources such as notes, pictures, videos to be put in a particular topic...
+        - Collection of secondary resources such as scheme of work, time tables, each class Details, School info, activities for the term e.t.c
+        - Agreeing on a particular format for notes among all arms of a class, especially nursery and primary 1...
+
+3. - Resource Processing
+
+4. - Cloud/Back-end Support
+
+5. - Full-Blown Testing Phase
+
+6. - Analysis
+
+7. - Release
+
+8. - Maintenance
+
+import 'package:youtube_player_flutter/youtube_player_flutter.dart';
+
+child: YoutubePlayer(
+                                  controller: YoutubePlayerController(
+                                    initialVideoId: 'zn2GwbPG-tc', //Add videoID.
+                                    flags: YoutubePlayerFlags(
+                                      hideControls: false,
+                                      controlsVisibleAtStart: true,
+                                      autoPlay: true,
+                                      mute: false,
+                                    ),
+                                  ),
+                                  showVideoProgressIndicator: true,
+                                  progressIndicatorColor: Colors.lightGreen[200],
+                                ),
+
+    __Add-Ons__
+# add the . index
+# Add a recomended Topics Section just above the videos section
+# add a recomended videos section

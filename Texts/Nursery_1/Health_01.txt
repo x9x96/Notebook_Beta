@@ -1,0 +1,10 @@
+1. Head
+2. Eyes
+3. Nose
+4. Mouth
+5. Ear
+6. Neck
+7. Arm
+8. leg
+9. Fingers
+10. Shoulder

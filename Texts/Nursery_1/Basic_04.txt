@@ -1,0 +1,9 @@
+Floating objects are objects that stay on top of the water.
+
+EXAMPLES OF FLOATING OBJECTS
+
+1. Balloon
+2. Paper
+3. Oil
+4. Leaf
+4. Wood
