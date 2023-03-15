@@ -1,16 +1,21 @@
-# notebook_4_nissi_alpha
+# Notebook (Beta)
 
-A new Flutter project.
+An intuitive approach in attempting to solve some problems i observed while as a Teacher in the Elementary School System...
 
-## Getting Started
+## Features
+- Lessons
+  Section of the app where pupil parents and teachers gain access to pupils subjects topics | requirements | and explanations, ranked by grade...
+- Explore
+  Section of the app that grants pupils access to a plethora of educational descovery and amusement, in line with their grade...
+Supressed Features
+  - Syllabus
+  - Timetable
+  - Class Info
+  - Practice Tests
+  - School Info
+  - Term Activities
+  
+## Tech Stats
+**Server**: Firebase Auth, Firebase Storage, Firebase Firestore
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Client**: Flutter
