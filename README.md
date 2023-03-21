@@ -2,8 +2,8 @@
 
 An intuitive approach in attempting to solve some problems the author of this project observed while serving as a teacher in the Elementary School System... Details are provide in [Notebook's Mission](Notebook's_Mission.pdf)  
 
-## Screenshots
-![Screenshot1](assets/s2.png)
+## Preview
+![Screenshot1](assets/s2.png | width 50 | height 50)
 
 ![Screenshot1](assets/s7.png)
 
