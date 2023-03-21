@@ -3,21 +3,22 @@
 An intuitive approach in attempting to solve some problems the author of this project observed while serving as a teacher in the Elementary School System... Details are provide in [Notebook's Mission](Notebook's_Mission.pdf)  
 
 ## Preview
-<img src="assets/s2.png" width="100" height="100">
+<img src="assets/s2.png" alt="comment and activity feed example" width="350">
 
-![Screenshot1](assets/s7.png)
+<img src="assets/s7.png" alt="comment and activity feed example" width="350">
 
-![Screenshot1](assets/s8.png)
+<img src="assets/s8.png" alt="comment and activity feed example" width="350">
 
-![Screenshot1](assets/s6.png)
+<img src="assets/s6.png" alt="comment and activity feed example" width="350">
 
-![Screenshot1](assets/s1.png)
+<img src="assets/s1.png" alt="comment and activity feed example" width="350">
 
-![Screenshot1](assets/s3.png)
+<img src="assets/s3.png" alt="comment and activity feed example" width="350">
 
-![Screenshot1](assets/s4.png)
+<img src="assets/s4.png" alt="comment and activity feed example" width="350">
 
-![Screenshot1](assets/s5.png)
+<img src="assets/s5.png" alt="comment and activity feed example" width="350">
+
 
 ## ALERT
 **This is no longer maintained... The author of this project does not recommend copying this code as there are MANY bad practice methods which never got to be refactored. But it works!!!**
