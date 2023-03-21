@@ -25,7 +25,7 @@ An intuitive approach in attempting to solve some problems the author of this pr
 ## Features
 - Lessons Section of the app where pupils, parents and teachers gain access to pupils subjects topics | requirements | and explanations, ranked by grade...
 
-- Explore Section of the app that grants pupils access to a plethora of educational descovery and amusement, in line with their grade...
+- Explore Section of the app that grants pupils access to a plethora of educational discovery and amusement, in line with their grade...
 
 ### Supressed Features
   - Syllabus
@@ -37,7 +37,7 @@ An intuitive approach in attempting to solve some problems the author of this pr
 
 ## Content Copyright claims
 
-Media contents used in this project belong to their respective creators/authors from their respective platforms. No claim has and shall be made by the author of this project and the users of this project...
+Media contents used in this project belong to their respective creators/ authors from their respective platforms. No claim has and shall be made by the author of this project and the users of this project...
 
 ## Tech Stats
 **Server**: Firebase Auth, Firebase Storage, Firebase Firestore
@@ -53,7 +53,7 @@ Media contents used in this project belong to their respective creators/authors 
 #### 2. Clone the repo
 
 ```sh
-$ git clone https://github.com/mohak1283/Instagram-Clone
+$ git clone https://github.com/x9x96/Notebook_Beta
 $ cd Instagram-Clone/
 ```
 
@@ -68,13 +68,13 @@ $ cd Instagram-Clone/
 * Click "Google" and enable it
 
 
-4. Enable the Firebase Database
+#### 4. Enable the Firebase Database
 * Go to the Firebase Console
 * Click "Database" in the left-hand menu
 * Click the Cloudstore "Create Database" button
 * Select "Start in test mode" and "Enable"
 
-5. (skip if not running on Android)
+#### 5. (skip if not running on Android)
 
 * Create an app within your Firebase instance for Android, with package name com.mohak.instagram
 * Run the following command to get your SHA-1 key:
@@ -89,7 +89,7 @@ keytool -exportcert -list -v \
 * place `google-services.json` into `/android/app/`.
 
 
-6. (skip if not running on iOS)
+#### 6. (skip if not running on iOS)
 
 * Create an app within your Firebase instance for iOS, with your app package name
 * Follow instructions to download GoogleService-Info.plist
