@@ -19,7 +19,8 @@ An intuitive approach in attempting to solve some problems the author of this pr
 
 ![Screenshot1](assets/s5.png)
 
-**ALERT: This is no longer maintained... The author of this project does not recommend copying this code as there are MANY bad practice methods which never got to be refactored. But it works!!!**
+## ALERT
+**This is no longer maintained... The author of this project does not recommend copying this code as there are MANY bad practice methods which never got to be refactored. But it works!!!**
 
 ## Features
 - Lessons Section of the app where pupil parents and teachers gain access to pupils subjects topics | requirements | and explanations, ranked by grade...
