@@ -55,7 +55,7 @@ Media contents used in this project belong to their respective creators/ authors
 
 ```sh
 $ git clone https://github.com/x9x96/Notebook_Beta
-$ cd Instagram-Clone/
+$ cd Notebook_Beta/
 ```
 
 #### 3. Setup the firebase app
